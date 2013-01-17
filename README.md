@@ -25,23 +25,25 @@ requirejs(['jquery', 'bootstrap/popover', 'vendor/domReady!'], function($) {
 ```
 
 The folder structure:
-> js/
->   main.js
-> vendor/
->   bootstrap/
->     affix.js
->     alert.js
->     button.js
->     carousel.js
->     collapse.js
->     dropdown.js
->     modal.js
->     popover.js
->     scrollspy.js
->     tab.js
->     tooltip.js
->     transition.js
->     typeahead.js
-> page.htm
+```
+  js/
+    main.js
+  vendor/
+    bootstrap/
+      affix.js
+      alert.js
+      button.js
+      carousel.js
+      collapse.js
+      dropdown.js
+      modal.js
+      popover.js
+      scrollspy.js
+      tab.js
+      tooltip.js
+      transition.js
+      typeahead.js
+  page.htm
+```
 
 ### Current bootstrap version: 2.2.2
