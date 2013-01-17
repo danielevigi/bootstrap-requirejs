@@ -12,7 +12,7 @@ In requirejs config:
 ```javascript
 paths: {
   vendor: '/vendor',
-  bootstrap: 'vendor/bootstrap',
+  bootstrap: '/vendor/bootstrap',
   jquery: ['//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min', 'vendor/jquery']
 }
 ```
