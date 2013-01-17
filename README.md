@@ -11,8 +11,8 @@ In the html page head:
 In requirejs config:
 ```javascript
 paths: {
-  vendor: "/vendor",
-  bootstrap: "/vendor/bootstrap",
+  vendor: '/vendor',
+  bootstrap: 'vendor/bootstrap',
   jquery: ['//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min', 'vendor/jquery']
 }
 ```
@@ -43,8 +43,9 @@ vendor/
     tooltip.js
     transition.js
     typeahead.js
-  require.js
   domReady.js
+  require.js
+  jquery.js
 page.htm
 ```
 
